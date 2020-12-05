@@ -35,4 +35,7 @@ MarkAsSent.php | src/Services/Messages/
 QuotaService.php | src/Services
 
 
+Limitations
+==
+Tracking purposes are not implemented as not compliant with my personal ideology but feel free to add it if you want...
 
