@@ -30,7 +30,6 @@ MailAdapterFactory.php | src/Factories
 MessagesController.php | src/Http/Controllers
 EmailServiceRequest.php | src/Http/Requests
 EmailServiceType.php | src/Models
-Message.php | src/Models
 MarkAsSent.php | src/Services/Messages/
 QuotaService.php | src/Services
 
